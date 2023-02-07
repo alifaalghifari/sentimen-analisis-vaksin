@@ -1,0 +1,8 @@
+data real, mendekati real, raw data. bukan dataset
+
+pre processing : 60%
+process: 40%
+
+API KEY : BdHWFcB92vZMzGpA0gIaYYeon
+API KEY SECRET : BQGjIcdM9fv4j4SRen4uJaYaTjDdOVj4wRKIyJOXTo3FxM4tI2
+BEARER TOKEN : AAAAAAAAAAAAAAAAAAAAAKRXhwEAAAAAZadu34jOaUzWhyhr9E4%2Fwd9kKtg%3DunTTgATnVigqgKGOeJhgJ4xEihHr93k3yW0Vx6iibHYg21zs4w
